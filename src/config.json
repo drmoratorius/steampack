@@ -1,0 +1,50 @@
+{
+    "hardware":{
+        "mcp23017addr": 32,
+        "pins":{
+            "i2c_sda": 0,
+            "i2c_scl": 1,
+            
+            "mcpIrq": 2,
+            
+            "poti1": 27,
+            "poti2": 28,
+            
+            "relais1": 16,
+            "relais2": 17
+        }
+    },
+    "inputNames":[
+        "NC3",
+        "NC2",
+        "NC1", 
+        "REED",
+        "S2",
+        "S3",
+        "S4", 
+        "S1"
+    ],
+    "defaultValues":{
+        "ledB1": false,
+        "ledB2": false,
+        "ledS1": false,
+        "ledS2": false,
+        "ledS3": false,
+        "outNC1": false,
+        "outNC2": false,
+        "outNC3": false,
+        
+        "S1": null,
+        "S2": null,
+        "S3": null,
+        "S4": null,
+        "REED": null,
+        
+        "poti1": null,
+        "poti2": null
+    },
+    "program":{
+        "led3MinInterval": 0.01,
+        "led3MaxInterval": 0.09
+    }
+}
