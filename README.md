@@ -32,7 +32,7 @@ or adapt it and not a full tutorial.
 * Potential ideas for the future: allow control via smartphone through a WiFi AP
 
 ## Sounds
-The used sound module [DY-SV5W](https://shop.cpu.com.tw/upload/2022/09/VC0147_DY-SV5W-3.pdf) is using an
+The used sound module [DY-SV5W](https://grobotronics.com/images/companies/1/datasheets/DY-SV5W%20Voice%20Playback%20ModuleDatasheet.pdf?1559812879320) is using an
 SD card (32 GB max, FAT32) with several sounds mixed from available sounds online. Here is a selection:
 * https://freesound.org/people/qubodup/sounds/194882/
 * https://freesound.org/people/qubodup/sounds/395041/
