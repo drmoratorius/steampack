@@ -68,6 +68,8 @@ images to search for the products.
 17. [2 x USB-C Connector](https://de.aliexpress.com/item/1005005187689195.html)
 ![1005005187689195](products/1005005187689195.jpg)
 
+18. [Speaker - 5W 4 Ohms](https://www.amazon.de/dp/B0CSSSWSBQ)
+
 ## Additionally (not specifically ordered when building):
 * 3 x metal switch small
 * 2 x potentiometer (10K/100K) + knob
